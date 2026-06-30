@@ -1,9 +1,10 @@
 <div align="center">
   <h1>Nikita Shulga</h1>
-  <p><b>Software Developer | Data Science & AI Agents</b></p>
   <p>Saint Petersburg, Russia</p>
+  <p>Software Developer | Data Science & AI Agents</p>
 
   <p>2nd-year AI Engineering Student @ ITMO University</p>
+  <p><b>🏆 Avito & Gazprom Python Hackathon 2026 Prize Winner</b></p>
 
   <hr width="50%" size="1" color="#30363d">
 
