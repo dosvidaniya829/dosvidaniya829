@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Nikita Shulga</h1>
-  <p>Saint Petersburg, Russia</p>
+  <p>Saint-Petersburg, Russia</p>
   <p>Software Developer | Data Science & AI Agents</p>
 
   <p>2nd-year AI Engineering Student @ ITMO University</p>
