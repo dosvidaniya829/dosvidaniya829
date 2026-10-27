@@ -4,6 +4,7 @@
   <p>Software Developer | Data Science & AI Agents</p>
 
   <p>2nd-year AI Engineering Student @ ITMO University</p>
+  <p><b>🥇 1st Place Winner, Open#MOSPROM Hackathon 2026</b></p>
   <p><b>🏆 Avito & Gazprom Python Hackathon 2026 Prize Winner</b></p>
 
   <hr width="50%" size="1" color="#30363d">
